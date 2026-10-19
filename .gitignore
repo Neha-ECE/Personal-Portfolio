@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Dependencies (for later, when you use Node.js)
+node_modules/
+
+# Secret keys and passwords
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
